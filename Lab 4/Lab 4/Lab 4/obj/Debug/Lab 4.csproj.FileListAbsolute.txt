@@ -1,0 +1,15 @@
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+F:\Mohawk College\Mohawk Winter 2015\Adv Programming in .NET\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\zuoke\Desktop\GitHub Projects\Adv .NET Lab 4\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\zuoke\Source\Repos\Employee_Sort\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\zuoke\Source\Repos\Employee_Sort\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\zuoke\Source\Repos\Employee_Sort\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
